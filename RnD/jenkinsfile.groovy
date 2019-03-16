@@ -1,5 +1,3 @@
 node {
-  stage('Checkout Repository') {
-  checkout scm
-  }
+   echo 'Hello World'
 }
